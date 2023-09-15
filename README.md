@@ -7,7 +7,7 @@ nhóm em gồm 2 thành viên:
 Nội dung đề tài nhóm: Phầm mềm quản lí cửa hàng thiết bị di động, kĩ thuật số và đồ gia dụng.
 
 Các chức năng của phần mềm(phải mô tả, rõ ràng từng cái một):
--APP: (trống).
--WEB: (trống).
--MOBILE: (trống).
+APP: (trống).
+WEB: (trống).
+MOBILE: (trống).
 Ứng dụng AI: tư vấn hỗ trợ mua sản phẩm.
